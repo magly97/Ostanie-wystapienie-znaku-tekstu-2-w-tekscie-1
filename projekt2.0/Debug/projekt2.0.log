@@ -1,0 +1,24 @@
+﻿  projekt2.0.cpp
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(33): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(40): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(49): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(52): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(78): warning C4473: „printf”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(78): note: symbole zastępcze i ich parametry oczekują 1 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 0
+  c:\users\example\documents\visual studio 2017\projects\projekt2.0\projekt2.0\projekt2.0.cpp(78): note: brakujący argument 1 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%d”
+  projekt2.0.vcxproj -> C:\Users\example\Documents\Visual Studio 2017\Projects\projekt2.0\Debug\projekt2.0.exe
+  projekt2.0.vcxproj -> C:\Users\example\Documents\Visual Studio 2017\Projects\projekt2.0\Debug\projekt2.0.pdb (Partial PDB)
